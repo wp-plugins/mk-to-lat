@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Plugin Name: Mk-To-Lat
-Plugin URI: http://wordpress.org/extend/plugins/cyr2lat/
+Plugin URI: http://wordpress.org/extend/plugins/mk-to-lat/
 Description: This plugin convert macedonian cyrillic characters in post title to latin characters. You can use this plugin for creating human-readable links. Original Plugin author is Anton Skorobogatov.
 Translated to Macedonian by Goce Ristov.
 Author: Atrax
