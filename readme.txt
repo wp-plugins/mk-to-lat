@@ -3,8 +3,8 @@ Contributors: Goce Ristov
 Donate link: http://www.technoish.com/
 Tags: convert, macedonian, macedonia, mk, cyrillic, characters, post title, ,latin, characters, create human-readable, sef, seo
 Requires at least: 2.0.2
-Tested up to: 2.5
-Stable tag: 1.0
+Tested up to: 2.5.1
+Stable tag: 2.0
 
 This plugin convert macedonian cyrillic characters in post titles into latin characters. You can use this plugin for creating human-readable links.
 
@@ -14,13 +14,13 @@ It converts the Macedonian cyrillic characters of the title posts into latin to 
 
 For example:
 
-Lets say you want your wordpress to be in Macedonian. So you intall wordpress, install the Macedonian language files, translate the template menus and stuff to Macedonian, but after your first post whit title: "«‰‡‚Ó —‚ÂÚ!" you noticed that the url for that post has become something like:
+Lets say you want your wordpress to be in Macedonian. So you intall wordpress, install the Macedonian language files, translate the template menus and stuff to Macedonian, but after your first post with title: "–ó–¥—Ä–∞–≤–æ –°–≤–µ—Ç!" you noticed that the url of that post has become something like:
 
- http://www.makedonskiwordpress.com/%C7%E4%F0%E0%E2%EE%20%D1%E2%E5%F2
+ http://www.mkwordpress.com/%C7%E4%F0%E0%E2%EE%20%D1%E2%E5%F2
 
 instead of the good for eyes url:
 
- http://www.makedonskiwordpress.com/zdravo-svet/
+ http://www.mkwordpress.com/zdravo-svet/
 
 
 This happens because cyrillic characters are not supported in urls and so the code translates them into browser readable language. Now this has two main disadvantages:
@@ -31,10 +31,6 @@ This happens because cyrillic characters are not supported in urls and so the co
 
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload `mk-to-lat.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
